@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Cathydera
-- 👀 I’m interested in Data visualisation
-- 🌱 I’m currently learning Python, PowerBI and SQL to visualise data on Udacity
-- 💞️ I’m looking to collaborate on finance projects
+- 👋 Hi, I’m Cathydera
+- 👀 I’m seasoned Business Analyst venturing into Cloud Devops space
+- 🌱 I’m currently building my cloud compentence using AWS 
+- 💞️ Journey with me [here](https://chiderabassey.substack.com) 
 - 📫 How to reach me tech4bus@gmail.com
 
 <!---
