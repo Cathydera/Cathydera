@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cathydera
-- 👀 I’m seasoned Business Analyst venturing into Cloud Devops space
+- 👀 I’m seasoned Business Analyst with experince in Cloud Devops
 - 🌱 I’m currently building my cloud compentence using AWS 
 - 💞️ Journey with me [here](https://chiderabassey.substack.com) 
 - 📫 How to reach me tech4bus@gmail.com
